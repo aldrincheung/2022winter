@@ -17,4 +17,4 @@ $$
 $$
 
 
-asdf $\sum^{n}_{i=1}x_i$  or $\textstyle \sum^{n}_{i=1}x_i$
+asdf $\sum^{n}_{i=1}x_i$  or $\sum^{n}_{i=1}x_i$
