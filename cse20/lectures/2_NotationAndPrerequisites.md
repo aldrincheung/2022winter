@@ -14,6 +14,8 @@
 |---|---|
 |ordered pair | 2-tuple |
 |empty string | $\lambda$ |
+|roster notation | when defining a set, list all the possiblities |
+
 
 
 ### Basic
