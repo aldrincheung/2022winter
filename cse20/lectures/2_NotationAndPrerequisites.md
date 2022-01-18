@@ -1,4 +1,4 @@
-# Notion and Prerequisites
+# Lecture 2: Notion and Prerequisites
 
  
 ### Data Types
