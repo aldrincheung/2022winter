@@ -1,4 +1,4 @@
-# Measurement
+# Measurement | 1D Motion | Vectors
 
 #### International System of Units
 |Quantity|Unit Name|Unit Symbol|
@@ -24,3 +24,32 @@ $$ 1 \text{watt} = 1\text{kg}\cdot m^2/s^3$$
 |$10^2$ |hecto-|h|      |$10^{-21}$|zepto- |z       |
 |$10^1$ |deka- |da|     |$10^{-24}$|yocto- |y       |
 
+
+#### Displacement $\Delta x$
+- displacement is a vector quantity, can be + or -
+$$
+\Delta x =x_2 - x_1
+$$
+
+#### Avg Velocity
+- Average volocity does not depend on distance, but only displacement or start and end position
+$$
+v_{\text{avg}}=\cfrac{\Delta x}{\Delta t}=\cfrac{x_2-x_1}{t_2-t_1}
+$$
+
+#### Avg Speed
+$$
+s_{\text{avg}}=\cfrac{\text{total distance}}{\Delta t}
+$$
+
+#### Accerleration
+$$
+a_{\text{avg}}=\cfrac{\Delta v}{\Delta t} \quad\quad a=\cfrac{dv}{dt}=\cfrac{d^2x}{dt^2}
+$$
+Constant Accerlation
+![constance acceleration equations](src/constant-acceleration-equations.jpg)
+
+#### Vector Basics
+$$
+a_x = a\ \cos(\theta) \quad\quad a_y=a\ \text{sin}(\theta)
+$$

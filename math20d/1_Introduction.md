@@ -13,3 +13,5 @@
 - `explicit solution` - given a function check if the function when solved for the derivatives and put in to a diff. eq, that if the diff. eq is valid
 - `implicit soution` - The derivative of the solution would be identical to the diff. eq on an interval I
 
+### Direction Fields
+- direction field - A plot of short line segments drawn at various points in the xy-plane showing the slope of the solution curve
