@@ -51,5 +51,8 @@ Constant Accerlation
 
 #### Vector Basics
 $$
-a_x = a\ \cos(\theta) \quad\quad a_y=a\ \text{sin}(\theta)
+a_x = a\ \cos(\theta) \quad\quad a_y=a\ \sin(\theta)
+$$
+$$
+\|a\|=\sqrt{a^2_x+a^2_y} \quad\quad \tan \theta=\cfrac{a_y}{a_x}
 $$
