@@ -24,6 +24,8 @@ $$ 1 \text{watt} = 1\text{kg}\cdot m^2/s^3$$
 |$10^2$ |hecto-|h|      |$10^{-21}$|zepto- |z       |
 |$10^1$ |deka- |da|     |$10^{-24}$|yocto- |y       |
 
+#### Radians to Degree (& vice versa)
+$$1\ \text{rad} = \cfrac{360}{2\pi} \quad\quad 1\ \text{deg} = \cfrac{360}{2/pi}$$
 
 #### Displacement $\Delta x$
 - displacement is a vector quantity, can be + or -
@@ -56,3 +58,9 @@ $$
 $$
 \|a\|=\sqrt{a^2_x+a^2_y} \quad\quad \tan \theta=\cfrac{a_y}{a_x}
 $$
+
+#### Multiplying Vectors
+$$\overrightarrow{a}\cdot\overrightarrow{b}=ab\ \cos \theta$$
+$$\overrightarrow{a}\cdot\overrightarrow{b}=(a_xb_x+a_yb_y+a_zb_z)$$
+$$c = ab\ \sin\theta$$
+$$\overrightarrow{c}=\overrightarrow{a}\times\overrightarrow{b} = (a_x\widehat{i}+a_y\widehat{j}+a_z\widehat{k})\cdot(b_x\widehat{i}+b_y\widehat{j}+b_z\widehat{k})$$
