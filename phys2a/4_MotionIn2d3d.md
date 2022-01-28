@@ -10,6 +10,7 @@
 |Projectile motion|<br/>$x-x_0=(v_0\cos \theta_0)t$<br/>$y-y_0=(v_0\sin\theta_0)t-\frac{1}{2}gt^2$<br/>$v_y=v_0\sin\theta_0-gt$<br/>$v^2_y=(v_0\sin\theta_0)^2-2g(y-y_0)$<br/>&nbsp;|
 |Projectile motion trajectory|<br/>$y=(\tan\theta_0)x-\cfrac{gx^2}{2(v_0\cos\theta_0)^2}$<br/>&nbsp;|
 |Typical Range for projectile motion|<br/>$R=\cfrac{v^2_0}{g}\sin 2\theta_0$<br/>&nbsp;|
+|Typical Duration for projectile motion|<br/>$T=\cfrac{2v_0}{g}\sin\theta$<br/>&nbsp;|
 
 <br/>
 
