@@ -7,7 +7,7 @@
 |Newton's second law|<br/>$\overrightarrow{F}_{net}=m\overrightarrow{a}$<br/>&nbsp;|
 |SI Unit conversion|<br/>$1\text{N}=(1\text{kg})(1\text{m/s}^2)=1kg\cdot\text{m/s}^2$<br/>&nbsp;|
 |gravitational force/weight|<br/>$W=\overrightarrow{F}_g=m\overrightarrow{g}$<br/>with ground as inertial frame<br/>&nbsp;|
-|Newtons third law|<br/>$\overrightarrow{F}_{BC}=\overrightarrow{F}_{CB}$<br/>&nbsp;|
+|Newtons third law|<br/>$\overrightarrow{F}_{BC} = \overrightarrow{F}_{CB}$<br/>&nbsp;|
 
 <br/>
 
