@@ -6,7 +6,8 @@
   - $ar^2e^{rt}+bre^{rt}+ce^{rt}=0$
   - $e^{rt}(ar^2+br+c)=0$
   - $(ar^2+br+c)=0$ $\quad\quad \to\quad r=\cfrac{-b\pm\sqrt{b^2-4ac}}{2a}$
-- In case of repeated root for r, the general solution is: $\quad y(t)=c_1e^{rt}+c_2te^{rt}$
+- single roots: $\quad y(t)=c_1e^{r_1t}+c_2e^{r_2t}$
+- repeated root: $\quad y(t)=c_1e^{rt}+c_2te^{rt}$
 
 <br/>
 
