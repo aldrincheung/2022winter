@@ -1,7 +1,7 @@
 # Chapter 4: Linear Second-Order Differential Equation
 
 ### 4.2: Homogenus Linear Equations: General Solution
-- To solve: $\quad ay''+by'+cy'=0$
+- To solve: $\quad ay''+by'+cy=0$
 - Because the derivates are multiple of each other, the most possible form of y(x) is $e^{rt}$
   - $ar^2e^{rt}+bre^{rt}+ce^{rt}=0$
   - $e^{rt}(ar^2+br+c)=0$
