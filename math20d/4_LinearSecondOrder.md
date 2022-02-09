@@ -19,7 +19,8 @@
   - $\sin\theta = \theta - \cfrac{\theta^3}{3!} + \cfrac{\theta^5}{5!} + \cdots$
   - $\therefore e^{i\theta} = \cos\theta + i\sin\theta$
   - $\therefore e^{(\alpha + i \beta)t} = e^{\alpha t}(\cos\beta t+i\sin\beta t)$
-- $y(t)=c_1e^{\alpha t}(\cos\beta t+\sin\beta t)+c_2e^{\alpha t}\sin\beta t$
+  - $\therefore y(t)=c_1e^{\alpha t}(\cos\beta t+\sin\beta t)+c_2e^{\alpha t}(\cos\beta t-\sin\beta t)$
+- $y(t)=c_1e^{\alpha t}\cos\beta t + c_2e^{\alpha t}\sin\beta t$
 
 <br/>
 
