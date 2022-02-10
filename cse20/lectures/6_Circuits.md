@@ -8,8 +8,8 @@
 |Disjunction|OR|$\lor$|`\lor`|
 |Negation|NOT|$\lnot$|`\lnot`|
 
-- *DNF* - disjunctive normal form - OR of ANDs of variables $(\lnot p \land a)\lor (p \land t) \lor (a \land t)$
-- *CNF* - conjunctive normal form - OR of ANDs of variables $(\lnot p \lor a)\land (p \lor t) \land (a \lor t)$
+- *DNF* - disjunctive normal form - OR of ANDs of variables $(p \land a)\lor (p \land t) \lor (a \land t)$
+- *CNF* - conjunctive normal form - OR of ANDs of variables $(\lnot p \lor \lnot a)\land (\lnot p \lor \lnot t) \land (\lnot a \lor \lnot t)$
   
 |p|q|p $\to$ q|p $\leftrightarrow$ q|
 |---|---|---|---|
@@ -34,7 +34,7 @@
 #### More Terms
 - The **hypothesis**/**antecedent** of $p \to q$ is $p$
 - The **conclusion**/**consequent** of $p \to q$ is $q$
-- The **converse** of $p \to q$ is $g \to p$
+- The **converse** of $p \to q$ is $q \to p$
 - The **inverse** of $p \to q$ is $\lnot p \to \lnot q$
 - The **contrapositive** of $p \to q$ is $\lnot q \to \lnot p$ $\quad$ *is logically equivalent to p -> q* 
 
@@ -50,7 +50,7 @@
 |**Contrapositive**|$p\to q\equiv\lnot q\to\lnot p$|
 
 Other equivalences
-- $p\to q=\equiv\lnot p\lor q$
+- $p\to q\equiv\lnot p\lor q$
 - $\lnot(p\to q)\equiv p\land\lnot q$
 - $\lnot(p \leftrightarrow q)\equiv p\oplus q$
 - $(p\leftrightarrow q)\equiv q\leftrightarrow p$
