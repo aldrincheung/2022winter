@@ -15,6 +15,8 @@
 |cases|$q$|<br/>**all possible** cases, $p_1,\ p_2,\ \cdots$<br/>case 1: show that $p_1\to q$ ...<br/>case 2: show that $p_2\to q$ ...<br/>we can conclude that $q$ is true<br/>&nbsp;|proof by cases|
 |conj.|$p\land q$|<br/>proof $p$ is true<br/>proof $q$ is true<br/>&nbsp;|proof of conjunctions with subgoals|
 |disproof|$\lnot\forall$|<br/>use counterexample<br/>&nbsp;||
+|Predicate|$\exists xP(x)$|<br/>use witness<br/>&nbsp;||
+|contradict|$p$|<br/>pick another statement $r$ and once we show that $\lnot p\to (r\land\lnot r)$, we can conclude that p is true<br/>&nbsp;|Proof by Contradiction|
 
 <br/>
 

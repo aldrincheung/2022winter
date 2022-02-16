@@ -24,3 +24,11 @@
 - $W=Fd\cos\phi=\overrightarrow{F}\cdot\overrightarrow{d}$
   - $\phi$ is the constant angle between $\overrightarrow{F}$ and $\overrightarrow{d}$
 - $W=\Delta K=K_f-Ki$ &nbsp;&nbsp;&nbsp;&nbsp;*work-kinetic energy theorem*
+
+<br/>
+
+### Significant digits
+"When multiplying and dividing numbers, the number of significant figures used is determined by the original number with the smallest amount of significant figures. When adding and subtracting, the final number should be rounded to the decimal point of the least precise number."
+
+Souce: [lumen learning](https://courses.lumenlearning.com/introchem/chapter/significant-figures/#:~:text=When%20multiplying%20and%20dividing%20numbers,of%20the%20least%20precise%20number.)
+
