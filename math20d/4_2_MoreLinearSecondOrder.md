@@ -19,7 +19,9 @@
   - $y_p(t)=v_1y_1+v_2y_2$
     - derive $y_p$ and plug it into original solution, and solve for $v_1$ and $v_2$
 - Shortcut
+ 
 ![](src/variationParameterShortcut.png)
+
 - General Solution
   - $y(t)=y_h(t)+y_p(t)$
 
