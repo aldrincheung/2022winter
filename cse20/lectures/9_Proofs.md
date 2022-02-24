@@ -6,7 +6,7 @@
 ### Proofs
 |type|to proof|how.|name|
 |---|---|---|---|
-|predicate|$\forall xP(x)$ <br/>or<br/>$\lnot\exists xP(x)$|<br/>To prove when $P$ has finite domain, evaluate the predicate at **each** domain element<br/><br/>**Toward** a proof by univeral generalization, Let $e$ be an arbitrary element of $\mathbb{N}$<br/>**By** definition of $\mathbb{N}$, since $e\in\mathbb{N}$, (more info by deducing from $e$...). (relate it to the question).<br/>**This** is what was required.<br/>&nbsp;|Proof of universal by exhaustion|
+|predicate|$\forall xP(x)$ <br/>or<br/>$\lnot\exists xP(x)$|<br/>To prove when $P$ has finite domain, evaluate the predicate at **each** domain element<br/><br/>**Toward** a proof by universal generalization, Let $e$ be an arbitrary element of $\mathbb{N}$<br/>**By** definition of $\mathbb{N}$, since $e\in\mathbb{N}$, (more info by deducing from $e$...). (relate it to the question).<br/>**This** is what was required.<br/>&nbsp;|Proof of universal by exhaustion|
 |predicate|$\forall xP(x)$ <br/>or<br/>$\lnot\exists xP(x)$|<br/>To prove that $P$ with infinite domain, we take an **arbitrary** element $e$ from the domain of quantification and show that $P(e)$, without making any assumptions about $e$ other than that it comes from the domain.<br/><br/>**Toward** ...<br/>**case 1** $e=$:<br/>...<br/>&nbsp;|Proof by universal generalization|
 |cond.|$p\leftrightarrow q$|<br/>**Toward** ...<br/>Goal 1: $p\to q$: ...<br/>Goal 2: $q\to p$: ...<br/>&nbsp;|~ exhaustion|
 |cond.|$p\to q$|<br/>assume $p$ is true and ues that assumption to show $q$ is true<br/>&nbsp;|proof of conditional by direct proof|

@@ -24,6 +24,7 @@
 - $W=Fd\cos\phi=\overrightarrow{F}\cdot\overrightarrow{d}$
   - $\phi$ is the constant angle between $\overrightarrow{F}$ and $\overrightarrow{d}$
 - $W=\Delta K=K_f-Ki$ &nbsp;&nbsp;&nbsp;&nbsp;*work-kinetic energy theorem*
+- ![](src/workIntegralwithForce.png)
 
 <br/>
 
@@ -32,3 +33,9 @@
 
 Souce: [lumen learning](https://courses.lumenlearning.com/introchem/chapter/significant-figures/#:~:text=When%20multiplying%20and%20dividing%20numbers,of%20the%20least%20precise%20number.)
 
+
+### Power
+[Power Problem need to figure out](https://www.toppr.com/ask/question/an-initially-stationary-20-kg-object-accelerates-horizontally-anduniformly-to-a-speed-of-10-ms/)
+
+### Why, I don't understand
+![](2022-02-19-21-07-04.png)
