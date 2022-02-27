@@ -9,7 +9,7 @@
 |Work by $F_spring$|<br/>$\overrightarrow{F_s}=-k\overrightarrow{d}=-kx$<br/>$W_s=\frac{1}{2}kx_i^2-\frac{1}{2}kx_f^2$<br/>(when $x_i=0$) $W_s=-\frac{1}{2}kx^2$<br/>&nbsp;|
 |Work by gravitational force|<br/>$W_g=mgh$<br/>&nbsp;|
 |Variable force|<br/>$W=\int_{x_i}^{x_f}F_xdx+\int_{y_i}^{y_f}F_ydy+\int_{z_i}^{z_f}F_zdz$<br/>$W=\int_{x_i}^{x_f}F(x)dx$<br/>&nbsp;|
-|Work in terms of $ma$|<br/>$W=\int^{x_f}_{x_1}F(x)dx=\int^{x_f}_{x_i}ma\ dx$<br/>&nbsp;|
+|Work in terms of $ma$|<br/>$W=\int^{x_f}_{x_i}ma\ dx$<br/>&nbsp;|
 |Power|<br/>$P_{avg}=\cfrac{W}{\Delta t}$<br/>$P_{instant}=\cfrac{dW}{dt}$<br/>$P=\overrightarrow{F}\overrightarrow{v}$<br/>&nbsp;|
 |Work done in lifting and lowering an obj|<br/>$\Delta K=K_f-K_i=W_a+W_g$<br/>&nbsp;|
 
@@ -42,5 +42,5 @@ Souce: [lumen learning](https://courses.lumenlearning.com/introchem/chapter/sign
 ### Power
 [Power Problem need to figure out](https://www.toppr.com/ask/question/an-initially-stationary-20-kg-object-accelerates-horizontally-anduniformly-to-a-speed-of-10-ms/)
 
-### Why, I don't understand
-![](2022-02-19-21-07-04.png)
+### Lessons learnt from hw
+- If constant speed, KE=0. So for now, because we only learnt KE, U, and $E_{th}$. It means $W=U+E_{th}$

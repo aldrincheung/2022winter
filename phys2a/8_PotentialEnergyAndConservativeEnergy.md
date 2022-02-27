@@ -1,4 +1,4 @@
-# Chapter 7: Kinetic Energy and Work
+# Chapter 8: Potential Energy and Conservation of Energy
 
 ### Equations
 |type|eq.|
