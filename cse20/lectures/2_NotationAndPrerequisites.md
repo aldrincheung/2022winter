@@ -24,7 +24,7 @@
 |sequence(finite) | $x_1,...,x_n$ | A sequence $x_1$ to $x_n$ |
 |summation | $\sum^{n}_{i=1}x_i$ | The sum  of the terms of the sequence $x_1$ to $x_n$ |
 |all real numbers | $\mathbb{R}$ | The set of all real numbers |
-|all integerse | $\mathbb{Z}$ | The set of all integers (whole numbers & negative) |
+|all integers | $\mathbb{Z}$ | The set of all integers (whole numbers & negative) |
 |all positive integers | $\mathbb{Z}^+$ | The set of all strictly positive integers |
 |all natural numbers  | $\mathbb{N}$ or $\mathbb{Z}^{\geq}0$ | Set of all natural #s, including 0 |
 |piecewise rule definition | $f(x)= \left\{\begin{matrix}x&\text{ if } x\geq0\\-x&\text{ if } x<0\end{matrix}\right.$ |Define f of $x$ to be $x$ when $x$ is nonnegative and to be $-x$ when $x$ is negative | 
