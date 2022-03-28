@@ -15,6 +15,7 @@
 
 ### Lemma s
 |#|lemma|
+|---|---|
 |1|For any integers $p,q$ (not both zero), $gcd(\ (\frac{p}{gcd(\ (p,q)\ )},\frac{q}{gcd(\ (p,q)\ )})\ )=1$. In other words, can reduce to relatively prime integers by dividing by *gcd*.|
 
 <br/>
